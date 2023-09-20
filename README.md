@@ -5,9 +5,9 @@
 ```javascript
 export class LeoLuz extends Dev {
   name = 'Leonardo Luz'
-  projects = 'Fábrica de Software IFSP câmpus Itapetininga'
+  projects = 'Electrosfi IFSP câmpus Itapetininga'
   studyng = {
-    'PHP', 'Nodejs', 'React'
+    'Nodejs', 'TypeScript', 'Express', 'React', 'PHP', 'Dokcer' 
   }
 }
 
